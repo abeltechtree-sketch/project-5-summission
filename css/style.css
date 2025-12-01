@@ -64,7 +64,7 @@
   transition: left 0.4s ease, transform 0.4s ease, -webkit-transform 0.4s ease, -moz-transform 0.4s ease; }
 
 .header {
-  max-width: 80%;
+  max-width: 40%;
   display: block;
   margin: 0 auto;
   margin-top: 15px;
